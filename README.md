@@ -1,6 +1,6 @@
-# Learning About WebSockets - Real-Time Chat Application
+# Chat Application Using WebSockets (Learning WebSockets and Integration with Existing FastAPI Endpoints)
 
-A real-time chat application built to learn and understand WebSocket communication, asynchronous Python programming, and full-stack development.
+A real-time chat application built to learn and understand WebSocket communication and how to seamlessly integrate it with existing FastAPI REST endpoints.
 
 ## 📚 Learning Goals
 
