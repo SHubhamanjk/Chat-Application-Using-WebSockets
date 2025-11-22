@@ -1,0 +1,6 @@
+fastapi
+uvicorn[standard]
+python-socketio[asyncio_client]
+pymongo
+pydantic-settings
+jinja2
